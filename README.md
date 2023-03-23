@@ -3,5 +3,5 @@
 
 👨‍💻 FullStack Developer
 
-![Snake animation](https://github.com/Leozinnnn3/Leozinnnn3/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leozinnnn3/blob/output/github-contribution-grid-snake.svg)
 ---
